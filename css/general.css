@@ -70,6 +70,7 @@ html {
   /*font-size default is 16px thereby 10 / 16px = 0.625% which is 62.5%  */
   /* percentage of user browser setting */
   font-size: 62.5%;
+  overflow-x: hidden;
 }
 
 body {
@@ -77,6 +78,7 @@ body {
   line-height: 1;
   font-weight: 400;
   color: #555;
+  overflow-x: hidden;
 }
 
 /*********************************/
