@@ -1,15 +1,15 @@
 The author of this project is 
-Name: ojei Kelvi
+Name: ojei Kelvin
 @kelvin_ojei
 ojeikelvin@yahoo.com
-this is just pure THML and CSS
+this is just pure HTML, CSS & JAVASCRIPT
 
 
 Omnifood Website
 Welcome to Omnifood, a mouthwatering exploration of recipes, culinary tips, and delightful food adventures!
 
 About
-Foodie Delights is a web platform dedicated to celebrating the art of cooking, presenting a diverse array of recipes, cooking techniques, and culinary inspirations from around the globe.
+Omnifood is a web platform dedicated to celebrating the art of cooking, presenting a diverse array of recipes, cooking techniques, and culinary inspirations from around the globe.
 
 Features
 Recipe Collection: Explore a vast collection of recipes spanning various cuisines, from quick bites to gourmet delights.
